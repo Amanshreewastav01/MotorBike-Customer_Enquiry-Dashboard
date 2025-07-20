@@ -12,16 +12,6 @@ The EMS dashboard helps visualize and interpret large-scale enquiry and retail d
 
 ---
 
-## 📁 Files Included
-
-| File | Description |
-|------|-------------|
-| `Screenshot 2025-07-20 193418 (1)` | **Page 1: Business Performance Overview** |
-| `Screenshot 2025-07-20 193504` | **Page 2: Dealer-Wise Customer Journey** |
-| `Screenshot 2025-07-20 193525` | **Page 3: Dashboard Summary with Explanations** |
-
----
-
 ## 📃 Dashboard Pages Description
 
 ### 🔹 **Page 1: EMS – Business Performance Overview**
@@ -73,8 +63,6 @@ A professionally written visual summary page explaining:
 - Key insights from visuals
 - User guide for filters and interpretations
 
-🖼️ Screenshot available in `Dashboard_Summary.png`
-
 ---
 
 ## 🧮 Dataset Structure
@@ -97,9 +85,12 @@ Primary data table: `EMS`
 
 | Page | Description |
 |------|-------------|
-| ![Page 1](Screenshot 2025-07-20 193418 (1).png) | Business Performance |
-| ![Page 2](./Screenshot_2025_07_20_172800.png) | Dealer Journey |
-| ![Page 3](./Dashboard_Summary.png)           | Summary Explanation |
+| ![Page 1] <img width="1291" height="809" alt="Screenshot 2025-07-20 193418" src="https://github.com/user-attachments/assets/1b40ce33-65b5-4ea7-8aaf-a38433740411" />
+ | Business Performance |
+| ![Page 2] <img width="1293" height="811" alt="Screenshot 2025-07-20 193504" src="https://github.com/user-attachments/assets/163c38a1-52ff-439e-9840-10c75260f42c" />
+| Dealer Journey |
+| ![Page 3] <img width="1294" height="811" alt="Screenshot 2025-07-20 193525" src="https://github.com/user-attachments/assets/0406dd85-18a3-4233-a4d8-078e7679d79c" />
+ | Summary Explanation |
 
 ---
 
