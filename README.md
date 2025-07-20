@@ -97,7 +97,7 @@ Primary data table: `EMS`
 
 | Page | Description |
 |------|-------------|
-| ![Page 1](./Screenshot_2025_07_20_172731.png) | Business Performance |
+| ![Page 1](./Screenshot 2025-07-20 193418.png) | Business Performance |
 | ![Page 2](./Screenshot_2025_07_20_172800.png) | Dealer Journey |
 | ![Page 3](./Dashboard_Summary.png)           | Summary Explanation |
 
