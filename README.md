@@ -88,7 +88,7 @@ Primary data table: `EMS`
 | ![Page 1] <img width="1291" height="809" alt="Screenshot 2025-07-20 193418" src="https://github.com/user-attachments/assets/1b40ce33-65b5-4ea7-8aaf-a38433740411" />
  | Business Performance |
 | ![Page 2] <img width="1293" height="811" alt="Screenshot 2025-07-20 193504" src="https://github.com/user-attachments/assets/163c38a1-52ff-439e-9840-10c75260f42c" />
-| Dealer Journey |
+ | Dealer Journey |
 | ![Page 3] <img width="1294" height="811" alt="Screenshot 2025-07-20 193525" src="https://github.com/user-attachments/assets/0406dd85-18a3-4233-a4d8-078e7679d79c" />
  | Summary Explanation |
 
