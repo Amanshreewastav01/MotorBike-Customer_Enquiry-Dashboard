@@ -1,4 +1,4 @@
-<img width="1291" height="809" alt="Screenshot 2025-07-20 193418 (1)" src="https://github.com/user-attachments/assets/2571abea-3d32-48e6-ab70-13c46da384e2" /># 🚀 Enquiry Management System (EMS) Dashboard – Power BI
+/># 🚀 Enquiry Management System (EMS) Dashboard – Power BI
 
 Welcome to the **EMS Dashboard** repository! This project is built using **Power BI** to monitor and analyze customer enquiries, test rides, follow-ups, and retail performance at a dealer and business level.
 
